@@ -1,0 +1,72 @@
+.first {
+    height: 700px;
+    background-image: linear-gradient(to left, rgb(195, 0, 255), rgb(0, 113, 128) );
+    padding:2px 0px 100px 0px;
+  }
+   .sec 
+  {
+    width: 300px;
+    height: 400px;
+    display:block;
+    margin:auto; 
+    margin-top: 100px;  
+    background-color: white;
+    border: 1px solid white;
+    position: relative;
+    
+  } 
+  .sec img
+  {
+    width: 10px;
+    position: absolute;
+    right: 0;
+    margin: 7px 7px;
+  }
+  .sec h1
+  {
+      text-align: center;
+      text-transform: capitalize;
+      font-weight: bold;
+  }
+  .third 
+  {
+      padding: 10px 0px 0px 15px;
+      width: 200px;
+  }
+  .link 
+  {
+      text-decoration: none;
+      display: block;
+      color: blue;
+      padding: 0px  15px;
+  }
+  #email ,#pass
+  {
+    width: 260px;
+    height: 20px;
+    padding: 3px 0px;
+    margin:0px 0px 5px 0px;
+  }
+   .last 
+  {
+    text-decoration: none;
+    background-image: linear-gradient(to left, rgb(195, 0, 255), rgb(0, 113, 128) );
+    color: white;
+    display: block;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px 2px;
+    margin: 5px 20px; 
+  }   
+  .sec p
+  {
+     display: inline; 
+    margin: 0px 0px 0px 50px ; 
+  }
+
+  .l
+  {
+    text-decoration:none;
+    color: blue;
+  }
+ 
